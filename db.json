@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "name": "ALIJA BISWAS",
+      "email": "sweetybiswas627@gmail.com",
+      "address": "1/1/49, B-77, chowdhuripara street",
+      "phone": "+917003378331",
+      "id": 2
+    },
+    {
+      "id": 1673070743891,
+      "name": "ALIJA",
+      "email": "sweetybiswas627@gmail.com",
+      "address": "1/1/49, B-77, chowdhuripara street, Halisahar Chowdhuripara",
+      "phone": "+917003378331"
+    },
+    {
+      "id": 1673071894195,
+      "name": "ALIJA BISWAS",
+      "email": "sweetybiswas627@gmail.com",
+      "address": "1/1/49, B-77, chowdhuripara street, Halisahar Chowdhuripara",
+      "phone": "+917003378331"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

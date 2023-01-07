@@ -1,0 +1,39 @@
+.container {
+    margin-top: 10%;
+}
+
+.navbar {
+    background-color: #445c7c;
+}
+
+.navbar-brand {
+    color: #FFF;
+}
+
+.d-flex {
+    float: right;
+}
+
+i {
+    margin-right: 10px;
+}
+
+.btn {
+    margin-right: 10px;
+    border-radius: 0px;
+    border: none;
+}
+
+.fa-pen {
+    color: #ffc722;
+    margin-right: 0px;
+}
+
+.fa-trash {
+    color: #f5564b;
+    margin-left: -15px;
+}
+
+.btn:hover {
+    background-color: none;
+}
